@@ -1,6 +1,6 @@
 .btn-rounded span {
     position: absolute;
-    background-color: #721f54;
+    background-color: #07726D;
     width: 2.5rem;
     height: 2.5rem;
     top: 50%;
@@ -18,13 +18,13 @@
 
 .btn-secondary:hover {
     color: #000;
-    background-color: #721f54;;
+    background-color: #07726d;
     border-color: #721f54;
   }
 
 .btn-primary:hover {
     color: #f9fafb;
-    background-color: #721f54;
+    background-color: #07726d;
     border-color: #721f54;
   }
 
